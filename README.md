@@ -4,8 +4,8 @@
 
 Este projeto foi entregue como parte do **Fullstack Academy** (edição FutibaClub) promovido pelo **DevPleno** (www.devpleno.com).
 
-**Participante:** {certName}
+**Participante:** Tulio Faria
 
-**Chave do Certificado:** {certKey}
+**Chave do Certificado:** key-de-testes
 
 O certificado pode ser consultado em: https://certificados.devpleno.com
