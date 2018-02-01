@@ -6,6 +6,6 @@ Este projeto foi entregue como parte do **Fullstack Academy** (edição FutibaCl
 
 **Participante:** Tulio Faria
 
-**Chave do Certificado:** A0C7-BEEE-FF55-B337
+**Chave do Certificado:** 4C43-CB51-DBBB-7E01
 
 O certificado pode ser consultado em: https://certificados.devpleno.com
